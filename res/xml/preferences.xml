@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    
+<PreferenceCategory android:title="@string/YourServer">
+    
+    <CheckBoxPreference
+        android:key="serverData"
+        android:title="@string/serverData" android:summary="@string/serverData"/>
+    
+    <CheckBoxPreference
+        android:key="acceptAny"
+        android:title="@string/acceptAny" android:summary="@string/acceptAny"/>
+    
+    <CheckBoxPreference
+        android:key="serverOwnMail"
+        android:title="@string/serverOwnMail" android:summary="@string/serverOwnMail"/>
+    
+    
+</PreferenceCategory>    
+
+<PreferenceCategory android:title="@string/Others">
+
+	<CheckBoxPreference
+        android:key="stealthMode"
+        android:title="@string/stealthMode" android:summary="@string/stealthMode"/>
+    	
+    <CheckBoxPreference
+        android:key="debug"
+        android:title="@string/Debug" android:summary="@string/Debug"/>
+    
+</PreferenceCategory>    
+
+</PreferenceScreen>

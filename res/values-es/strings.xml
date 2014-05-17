@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ownMdm</string>
+    <string name="title_activity_main">ownMdm</string>
+    <string name="menu_settings">Ajustes</string>
+	<string name="menu_about">Acerca de</string>    
+	<string name="serverData">Datos de Servidor</string>    
+	<string name="Debug">Debug</string>    
+	<string name="Accept">OK</string>    
+	<string name="stealthMode">Modo Invisible</string>    
+	<string name="acceptAny">No verificar el certificado SSL</string>    
+	<string name="YourServer">Tu propio servidor ownMdm</string>    
+	<string name="Others">Otros</string>    
+	<string name="HowToUse">Primero: pulsa OK y activa esta App como Administrador de dispositivos.\n\Luego: Abre esta App de nuevo y activa el Modo Invisible.</string>    
+	<string name="serverOwnMail">Cuenta de gmail para envío</string>    
+	<string name="enableStealthModeAgain">¡Recuerda activar el Modo Invisible de nuevo!</string>    
+								
+</resources>
